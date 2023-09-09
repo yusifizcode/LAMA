@@ -1,0 +1,3 @@
+window.env = {
+  "REACT_APP_STRIPE": "pk_test_51MsRiLGVwWWuLvrTULBSyJyqKU2zIVjBff5kofZZAPrDEuMKmzTy350RHFfgIK3g0BEk6tC6m4ohSz6rGg7OxsrN00NDDzfKIQ"
+};
